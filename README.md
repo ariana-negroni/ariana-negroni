@@ -1,4 +1,11 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=00F701&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Hi+there!;My+name+is+Alanis+Negroni;Welcome+to+my+profile!)](https://git.io/typing-svg)
+- 🔭 I’m currently a 4th year Software Engineering Student at the University of Puerto Rico - Mayaguez.
+- 🌱 I’m currently learning Operation Systems, and kernel development
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I love Frogs!
+
+### Github Stats
+![Languages](https://github.com/Negroni1/github-stats-transparent/blob/output/generated/languages.svg) ![Overview](https://github.com/Negroni1/github-stats-transparent/blob/output/generated/overview.svg)
 
 <!--
 **Negroni1/Negroni1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
