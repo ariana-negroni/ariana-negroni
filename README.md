@@ -7,6 +7,7 @@
 ### Github Stats
 ![Languages](https://github.com/Negroni1/github-stats-transparent/blob/output/generated/languages.svg) ![Overview](https://github.com/Negroni1/github-stats-transparent/blob/output/generated/overview.svg)
 
+![frog](https://github.com/Negroni1/Negroni1/blob/main/frogAnimated.gif)
 <!--
 **Negroni1/Negroni1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
