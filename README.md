@@ -1,7 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=FFA500&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Hi+there!;My+name+is+Ariana+Negroni;Welcome+to+my+profile!)](https://git.io/typing-svg)
 - 🦠 I’m a 5th year Biology Student at the University of Puerto Rico - Mayaguez.
 - 😄 Pronouns: she/her
-- 🧬 I’m aiming for a PhD on molecular and translational biology.
+- 🧬 I’m aiming for a PhD in Molecular and Translational Biology.
+- 🧪 My current research project focus on understanding the structure and physiological changes of hemeproteins when exposed to hydrogen sulfide, specially the binding and release of it. This can be use to test the slow release of hydrogen sulfide in human stomach fibroblast cells to assess the toxic concentration.
 
 
 
