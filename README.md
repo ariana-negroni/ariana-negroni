@@ -6,7 +6,6 @@
 
 
 
-# ![rat](https://github.com/user-attachments/assets/779e2c77-1e73-46b6-9fef-720848582f8e)
 ![Pixel Mouse Gif](https://github.com/user-attachments/assets/59156d30-9de1-49a2-9a8e-ddae3082ba1a)
 
 
@@ -25,3 +24,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![rat](https://github.com/user-attachments/assets/779e2c77-1e73-46b6-9fef-720848582f8e)
