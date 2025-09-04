@@ -2,7 +2,11 @@
 - 🦠 I’m a 5th year Biology Student at the University of Puerto Rico - Mayaguez.
 - 😄 Pronouns: she/her
 - 🧬 I’m aiming for a PhD on molecular and translational biology.
-  
+
+  ### Github Stats
+![Languages](https://github.com/Negroni1/github-stats-transparent/blob/output/generated/languages.svg) ![Overview](https://github.com/Negroni1/github-stats-transparent/blob/output/generated/overview.svg)
+
+![frog](https://github.com/Negroni1/Negroni1/blob/main/frogAnimated.gif)
 
 
 <!--
