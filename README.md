@@ -6,7 +6,8 @@
 
 
 
-![frog](https://github.com/Negroni1/Negroni1/blob/main/frogAnimated.gif)
+![rat](https://github.com/user-attachments/assets/779e2c77-1e73-46b6-9fef-720848582f8e)
+
 
 
 <!--
