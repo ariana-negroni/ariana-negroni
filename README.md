@@ -4,7 +4,7 @@
 - 🧬 I’m aiming for a PhD on molecular and translational biology.
 
   ### Github Stats
-![Languages](https://github.com/Negroni1/github-stats-transparent/blob/output/generated/languages.svg) ![Overview](https://github.com/Negroni1/github-stats-transparent/blob/output/generated/overview.svg)
+![Languages](https://github.com/ariana-negroni/github-stats-transparent/blob/output/generated/languages.svg) ![Overview](https://github.com/ariana-negroni/github-stats-transparent/blob/output/generated/overview.svg)
 
 ![frog](https://github.com/Negroni1/Negroni1/blob/main/frogAnimated.gif)
 
