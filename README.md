@@ -5,10 +5,7 @@
 - 🧪 My current research project focus on understanding the structure and physiological changes of hemeproteins when exposed to hydrogen sulfide, specially the binding and release of it. This can be use to test the slow release of hydrogen sulfide in human stomach fibroblast cells to assess the toxic concentration.
 
 
-
-![Pixel Mouse Gif](https://github.com/user-attachments/assets/59156d30-9de1-49a2-9a8e-ddae3082ba1a)
-
-
+![rat](https://github.com/user-attachments/assets/779e2c77-1e73-46b6-9fef-720848582f8e)
 
 <!--
 **Negroni1/Negroni1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,4 +20,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- #[rat](https://github.com/user-attachments/assets/779e2c77-1e73-46b6-9fef-720848582f8e)
+- #[Pixel Mouse Gif](https://github.com/user-attachments/assets/59156d30-9de1-49a2-9a8e-ddae3082ba1a)
